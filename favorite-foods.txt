@@ -4,3 +4,5 @@ Spaghetti
 Macaroni
 Shrimp
 Adobo
+lasagna
+salad
